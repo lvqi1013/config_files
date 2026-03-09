@@ -48,3 +48,4 @@ Thumbs.db
 
 # 其他自定义文件
 lqcode/
+.gitignore
