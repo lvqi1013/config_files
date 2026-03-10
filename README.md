@@ -4,7 +4,9 @@
     ```
     # curl 下载:Windows or Linux
     curl -O https://raw.githubusercontent.com/lvqi1013/config_files/main/.gitignore
+    curl -O https://gitee.com/lvqi1013/config_files/raw/main/.gitignore
 
     # wget 下载:Linux
     wget https://raw.githubusercontent.com/lvqi1013/config_files/main/.gitignore
+    wget https://gitee.com/lvqi1013/config_files/raw/main/.gitignore
     ```
