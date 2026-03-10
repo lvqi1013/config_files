@@ -16,19 +16,3 @@
     wget https://gitee.com/lvqi1013/config_files/raw/main/.gitignore
     ```
 
-    <div class="code-block">
-  <button onclick="copyCode(this)">复制</button>
-  <pre><code class="language-bash">curl -O https://raw.githubusercontent.com/lvqi1013/config_files/main/.gitignore</code></pre>
-</div>
-
-<script>
-function copyCode(button) {
-  const code = button.nextElementSibling.querySelector('code').innerText;
-  navigator.clipboard.writeText(code).then(() => {
-    const originalText = button.innerText;
-    button.innerText = '已复制';
-    setTimeout(() => button.innerText = originalText, 2000);
-  });
-}
-</script>
-
