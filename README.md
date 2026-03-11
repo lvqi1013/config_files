@@ -3,7 +3,7 @@
 
 <h1 align="center" style="font-size: 40px;color: #007acc;font-family: 'Courier New', Courier, monospace;">配置文件列表</h1>
 
-# <span align="center" style="font-size: 30px;color: #007acc;font-family: 'Courier New', Courier, monospace;">配置文件列表</span>
+# <span style="font-size: 30px;color: #007acc;font-family: 'Courier New', Courier, monospace;">配置文件列表</span>
 
 - [.gitignore](./.gitignore): 用于存放 Git 忽略的文件列表。
     ```bash
