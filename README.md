@@ -16,3 +16,13 @@
     wget https://gitee.com/lvqi1013/config_files/raw/main/.gitignore
     ```
 
+- [build_python_project.py](./build_python_project.py): 用于构建 Python 项目的脚本。
+    ```bash
+    # curl 下载:Windows or Linux
+    curl -O https://raw.githubusercontent.com/lvqi1013/config_files/main/build_python_project.py
+    curl -O https://gitee.com/lvqi1013/config_files/raw/main/build_python_project.py
+
+    # wget 下载:Linux
+    wget https://raw.githubusercontent.com/lvqi1013/config_files/main/build_python_project.py
+    wget https://gitee.com/lvqi1013/config_files/raw/main/build_python_project.py
+    ```
