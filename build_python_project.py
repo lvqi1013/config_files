@@ -9,7 +9,7 @@
 import os
 import shutil
 from pathlib import Path
-1
+
 # 配置项
 SOURCE_DIR = Path("src")          # 源代码目录
 BUILD_DIR = Path("build")         # 构建输出目录
